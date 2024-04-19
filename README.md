@@ -1,8 +1,12 @@
 # Project 95
 Project 95 is a Windows 95 restoration project
 ## Apps (Temp names)
-Windows 95 Unlimited ISO, Browser95, Docs 95 (Word), 
-Slides 95 (Powerpoint), Sheets 95 (Excel), Drive 95 (Onedrive),
+* Windows 95 Unlimited ISO
+* Browser95
+Docs 95 (Word)
+Slides 95 (Powerpoint)
+Sheets 95 (Excel)
+Drive 95 (Onedrive)
 Repair95
 Settings95
 Music95
